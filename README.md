@@ -35,4 +35,4 @@ Update/Save Gem after you have done all the tasks.
 
 Thanks to the following for the contributions to:
 - [@DRAGEno01](https://www.github.com/DRAGEno01)
-    - English and Music Repertoire Performance.
+    - English, Music Repertoire Performance & IT Software Development.
