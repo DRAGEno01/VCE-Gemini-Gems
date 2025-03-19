@@ -6,8 +6,10 @@ A project didicated to providing users with instructions for Google's Gemini (AI
 
 [MIT](https://choosealicense.com/licenses/mit/) for the GitHub project.
 
-All VCE documents are under copyright of the Victorian Government.
+All VCE Study Design documents are under copyright of the Victorian Government.
 You can access the documents on their website.
+
+As for the different files, each file has their own copyright license.
 
 
 ## Contributing
